@@ -10,8 +10,6 @@ import junit.framework.TestCase;
  */
 public class SinglyLinkedListTest extends TestCase{
 	
-	
-	
 	public static void main(String args[]) {
 		SinglyLinkedList singlyLinkedList = new SinglyLinkedList();
 		
